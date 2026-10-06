@@ -1,4 +1,4 @@
-| Logs | ¿Qué imprimirá la consola? (Predicción) | Justificación Teórica (Usa términos como: Hoisting, Ámbito de bloque, Ámbito de función, Undefined,...) |
+|   Logs   | ¿Qué imprimirá la consola? (Predicción) | Justificación Teórica (Usa términos como: Hoisting, Ámbito de bloque, Ámbito de función, Undefined,...) |
 |  :---  |  :---  |  :---  |
 | Log A  | Log A: undefined  | Celda 1,3 |
 | Log B  | Log B: Teclado Mecánico | Celda 2,3 |
