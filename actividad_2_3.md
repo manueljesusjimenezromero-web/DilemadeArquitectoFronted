@@ -9,3 +9,5 @@
 1. Comprobacion
 
 <img width="852" height="467" alt="Captura de pantalla 2026-10-06 120211" src="https://github.com/user-attachments/assets/03c46f33-9c81-4d8c-9db8-23bff11fe6cb" />
+
+2. Conclusion
