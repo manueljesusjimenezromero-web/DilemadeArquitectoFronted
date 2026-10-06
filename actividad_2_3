@@ -6,3 +6,8 @@ Log C  |      Log C: 25                     |       Dentro del bloque if, existe
 Log D  |      Log D: 10                     |       Fuera del bloque if, la variable descuento declarada con let deja de existir porque su ámbito de bloque ha terminado.
 Log E  |      Log E: ¡ERROR CATÁSTROFICO!   |       La constante impuesto fue declarada con const dentro del bloque if. Las variables const también tienen ámbito de bloque.
 Log F  |      Log F: ¡ERROR CATÁSTROFICO!   |       La variable precio está declarada con let. Aunque existe hoisting, las variables let quedan en la Temporal Dead Zone
+
+
+1. Comprobacion
+
+
