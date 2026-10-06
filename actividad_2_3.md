@@ -1,5 +1,5 @@
 | Logs | ¿Qué imprimirá la consola? (Predicción) | Justificación Teórica (Usa términos como: Hoisting, Ámbito de bloque, Ámbito de función, Undefined,...) |
-| :--- | :--- | :--- |
+|  :---  |  :---  |  :---  |
 | Log A  | Log A: undefined  | Celda 1,3 |
 | Log B  | Log B: Teclado Mecánico | Celda 2,3 |
 | Log C  | Log C: 25 | Celda 1,3 |
